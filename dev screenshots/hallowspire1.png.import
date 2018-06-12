@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/hallowspire1.png-b0e60b9b5cc2dacbf6a75b39e91582da.stex"
+
+[deps]
+
+source_file="res://dev screenshots/hallowspire1.png"
+source_md5="d869ea2903021ae18324b453e61696f9"
+
+dest_files=[ "res://.import/hallowspire1.png-b0e60b9b5cc2dacbf6a75b39e91582da.stex" ]
+dest_md5="7771f349fec80731152afac49494c96e"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_run attempt1_r9fr4.png-a78e63e1cb3ae9191ad716540ea65704.stex"
+
+[deps]
+
+source_file="res://res/gfx/skeleton/run attempt1/skeleton_run attempt1_r9fr4.png"
+source_md5="e1674a8a97ecbff043ca530c8c5eef03"
+
+dest_files=[ "res://.import/skeleton_run attempt1_r9fr4.png-a78e63e1cb3ae9191ad716540ea65704.stex" ]
+dest_md5="4420f32048105b26f8aade56f10350e3"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

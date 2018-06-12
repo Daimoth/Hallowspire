@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/the_boneyard.wav-87160e9d46ea1073f57aab3b3cc44ba9.sample"
+
+[deps]
+
+source_file="res://res/mus/the_boneyard.wav"
+source_md5="921581c122fa8b01f35918405ff4c5c5"
+
+dest_files=[ "res://.import/the_boneyard.wav-87160e9d46ea1073f57aab3b3cc44ba9.sample" ]
+dest_md5="06055d5d827d0a8b1a1adf53173e5897"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

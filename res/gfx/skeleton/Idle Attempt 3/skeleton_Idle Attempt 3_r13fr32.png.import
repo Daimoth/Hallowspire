@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/skeleton_Idle Attempt 3_r13fr32.png-6e3a58ce9f3541295bc3a891a11de4e6.stex"
+
+[deps]
+
+source_file="res://res/gfx/skeleton/Idle Attempt 3/skeleton_Idle Attempt 3_r13fr32.png"
+source_md5="73434e00149231b53c3fba266c08e71f"
+
+dest_files=[ "res://.import/skeleton_Idle Attempt 3_r13fr32.png-6e3a58ce9f3541295bc3a891a11de4e6.stex" ]
+dest_md5="d84f16524d58594c324d2aa6e87417aa"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

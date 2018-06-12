@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Daimoth Scaled.png-1720a0de91c9fe0596de71c1016b73f7.stex"
+
+[deps]
+
+source_file="res://res/gfx/gui/Daimoth Scaled.png"
+source_md5="fea2ca8a608aa9a2b20a8348977b933d"
+
+dest_files=[ "res://.import/Daimoth Scaled.png-1720a0de91c9fe0596de71c1016b73f7.stex" ]
+dest_md5="c993029e438c959ed3776d74246e0c1f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
